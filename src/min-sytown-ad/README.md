@@ -18,11 +18,11 @@ mip-sytown-ad 是尚一堂广告组件
 </mip-sytown-ad>
 ```
 
-### 关闭悬浮元素的方法
+### 关闭广告元素的方法
 
 1. 给 `<mip-sytown-ad>` 标签添加一个自定义的 `id=customid`。
 
-2. 给需要点击关闭悬浮元素的标签添加属性 `on="tap:customid.close"`。
+2. 给需要点击关闭广告元素的标签添加属性 `on="tap:customid.close"`。
 
 ```html
 <mip-fixed type="top" id="customid">
