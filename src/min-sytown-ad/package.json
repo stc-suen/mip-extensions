@@ -1,0 +1,12 @@
+{
+    "name": "mip-sytown-ad",
+    "version": "1.0.0",
+    "author": {
+        "name": "sytown",
+        "email": "luweibo@sytown.cn",
+        "url": "m.sytown.cn"
+    },
+    "engines": {
+        "mip": ">=1.1.0"
+    }
+}
